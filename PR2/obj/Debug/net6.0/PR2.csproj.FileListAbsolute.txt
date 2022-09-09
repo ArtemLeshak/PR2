@@ -1,0 +1,15 @@
+C:\Geekbrains\PR2\bin\Debug\net6.0\PR2.exe
+C:\Geekbrains\PR2\bin\Debug\net6.0\PR2.deps.json
+C:\Geekbrains\PR2\bin\Debug\net6.0\PR2.runtimeconfig.json
+C:\Geekbrains\PR2\bin\Debug\net6.0\PR2.dll
+C:\Geekbrains\PR2\bin\Debug\net6.0\PR2.pdb
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.csproj.AssemblyReference.cache
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.AssemblyInfoInputs.cache
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.AssemblyInfo.cs
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.csproj.CoreCompileInputs.cache
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.dll
+C:\Geekbrains\PR2\obj\Debug\net6.0\refint\PR2.dll
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.pdb
+C:\Geekbrains\PR2\obj\Debug\net6.0\PR2.genruntimeconfig.cache
+C:\Geekbrains\PR2\obj\Debug\net6.0\ref\PR2.dll
